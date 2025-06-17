@@ -13,4 +13,5 @@ Sales Insights – Track best-selling products and revenue trends
 Interactive Filters – Filter data by product, price range, sales volume, and time
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Oneliihansa/Shoe-Data-Visualization_PowerBI/blob/main/Snap%20Shots/Dashboard%201.png)
+![App Screenshot](https://github.com/Oneliihansa/Shoe-Data-Visualization_PowerBI/blob/main/Snap%20Shots/Dashboard%202.png)
